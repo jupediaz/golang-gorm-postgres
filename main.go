@@ -57,7 +57,7 @@ func main() {
 
 	router := server.Group("/api")
 	router.GET("/healthchecker", func(ctx *gin.Context) {
-		message := "Welcome to Golang with Gorm and Postgres"
+		message := "service available"
 		ctx.JSON(http.StatusOK, gin.H{"status": "success", "message": message})
 	})
 
