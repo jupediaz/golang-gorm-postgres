@@ -21,7 +21,6 @@ This article will guide you on how you can set up a Golang project with the GORM
 - Create the Golang Server with Gin Gonic
 - Testing the Golang API
 
-Read the entire article here: [https://codevoweb.com/setup-golang-gorm-restful-api-project-with-postgres](https://codevoweb.com/setup-golang-gorm-restful-api-project-with-postgres)
 
 ## 2. API with Golang + GORM + PostgreSQL: Access & Refresh Tokens
 
@@ -52,7 +51,6 @@ This article will teach you how to secure a Golang application with access and r
     - User Routes
 - Add the Routes to the Gin Middleware Stack
 
-Read the entire article here: [https://codevoweb.com/golang-gorm-postgresql-user-registration-with-refresh-tokens](https://codevoweb.com/golang-gorm-postgresql-user-registration-with-refresh-tokens)
 
 
 ## 3. Golang and GORM - User Registration and Email Verification
@@ -91,7 +89,6 @@ In this comprehensive guide, you will learn how to secure a Golang RESTful API w
     - User Routes
 - Register the Routes and Start the Golang Server
 
-Read the entire article here: [https://codevoweb.com/golang-and-gorm-user-registration-email-verification](https://codevoweb.com/golang-and-gorm-user-registration-email-verification)
 
 ## 4. Forgot/Reset Passwords in Golang with SMTP HTML Email
 
@@ -113,7 +110,6 @@ This article will teach you how to add a secure forgot/reset password feature to
 - Add the Reset Password Route Handler
 - Add the API Routes to the Gin Middleware Stack
 
-Read the entire article here: [https://codevoweb.com/forgot-reset-passwords-in-golang-with-html-email](https://codevoweb.com/forgot-reset-passwords-in-golang-with-html-email)
 
 ## 5. Build a RESTful CRUD API with Golang
 
@@ -146,4 +142,3 @@ This article will teach you how to create a CRUD RESTful API in a Golang environ
     - Retrieve all Records with Paginated Results
     - Delete a Record
 
-Read the entire article here: [https://codevoweb.com/build-restful-crud-api-with-golang](https://codevoweb.com/build-restful-crud-api-with-golang)
